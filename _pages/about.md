@@ -27,28 +27,28 @@ MY QUANT FIN ROAD MAP
 
   <b>2019</b>
   <ul>
-    <li>_Calculus I_</li>
-    <li>_Matrix Algebra_</li>
-    <li>_Calculus II_</li>
+    <li><i>Calculus I</i></li>
+    <li><i>Matrix Algebra</i></li>
+    <li><i>Calculus II</i></li>
   </ul>
   <b>2020</b>
   <ul>
-    <li>_Python_</li>
-    <li>_Intermediate Microeconomics I_</li>
-    <li>_Intermediate Microeconomics II_</li>
+    <li><i>Python</i></li>
+    <li><i>Intermediate Microeconomics I</i></li>
+    <li><i>Intermediate Microeconomics II</i></li>
   </ul>
   <b>2021</b>
   <ul>
-    <li>_Econometrics I_</li>
-    <li>_Econometrics II_</li>
-    <li>_Financial Markets & Institutions_</li>
+    <li><i>Econometrics I</i></li>
+    <li><i>Econometrics II</i></li>
+    <li><i>Financial Markets & Institutions</i></li>
   </ul>
   <b>2022</b>
   <ul>
-    <li>_Managerial Accounting_</li>
-    <li>_Intermediate Macroeconomics_</li>
-    <li>_Advanced Corporate Finance_</li>
-    <li>_Derivatives_</li>
+    <li><i>Managerial Accounting</i></li>
+    <li><i>Intermediate Macroeconomics</i></li>
+    <li><i>Advanced Corporate Finance</i></li>
+    <li><i>Derivatives</i></li>
   </ul>
 
 </details>
@@ -58,17 +58,17 @@ MY QUANT FIN ROAD MAP
 
   <b>2023 S1</b>
   <ul>
-    <li>_Derivative Securities_</li>
-    <li>_Asset Pricing Theory_</li>
-    <li>_Stochastic Calculus_</li>
-    <li>_Cross-sectional Econometrics_</li>
+    <li><i>Derivative Securities</i></li>
+    <li><i>Asset Pricing Theory</i></li>
+    <li><i>Stochastic Calculus</i></li>
+    <li><i>Cross-sectional Econometrics</i></li>
   </ul>
   <b>2023 S2</b>
   <ul>
-    <li>_Interest Rate Derivatives_</li>
-    <li>_Time Series Econometrics_</li>
-    <li>_Credit Risk Measurement and Management_</li>
-    <li>_Computational Finance_</li>
+    <li><i>Interest Rate Derivatives</i></li>
+    <li><i>Time Series Econometrics</i></li>
+    <li><i>Credit Risk Measurement and Management</i></li>
+    <li><i>Computational Finance</i></li>
   </ul>
 
 </details>
@@ -76,9 +76,9 @@ MY QUANT FIN ROAD MAP
 <details>
 <summary>OTHER</summary>
 
-<ul>
-    <li>_C++ Programing Specialization with PekingU/Coursera.org_</li>
-    <li>_Investment Management with Python and Machine Learning with EDHEC Business School/Coursera.org_</li>
+  <ul>
+    <li><i>C++ Programing Specialization with PekingU/Coursera.org</i></li>
+    <li><i>Investment Management with Python and Machine Learning with EDHEC Business School/Coursera.org</i></li>
   </ul>
   
 </details>
