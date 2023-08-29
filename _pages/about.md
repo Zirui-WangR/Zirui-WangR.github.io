@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Zirui Wang"
+title: "Hi, I'm Zirui Wang!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
