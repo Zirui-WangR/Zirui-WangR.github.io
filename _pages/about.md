@@ -12,8 +12,7 @@ EDUCATION
 ======
 
 ***The University of Manchester*** (2023-2024)
-+ Alliance Manchester Business School
-+ _MSc Quantitative Finance_
++ _MSc Mathematical Finance_
 
 ***University of Western Ontario*** (2019-2023)
 + _Bachelor of Management & Organizational Studies_
