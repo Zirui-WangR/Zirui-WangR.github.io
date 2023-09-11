@@ -61,13 +61,13 @@ MY QUANT FIN ROAD MAP
     <li><i>Derivative Securities</i></li>
     <li><i>Asset Pricing Theory</i></li>
     <li><i>Stochastic Calculus</i></li>
-    <li><i>Cross-sectional Econometrics</i></li>
+    <li><i>Martingale Theory for Finance</i></li>
   </ul>
   <b>2023 S2</b>
   <ul>
-    <li><i>Interest Rate Derivatives</i></li>
-    <li><i>Time Series Econometrics</i></li>
-    <li><i>Credit Risk Measurement and Management</i></li>
+    <li><i>Stochastic Control for Finance</i></li>
+    <li><i>Stochastic Modelling for Finance</i></li>
+    <li><i>Brownian Motion</i></li>
     <li><i>Computational Finance</i></li>
   </ul>
 
