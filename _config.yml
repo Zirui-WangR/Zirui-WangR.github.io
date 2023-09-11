@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "ZIRUI WANG"
 title_separator          : "-"
 name                     : &name "Zirui Wang"
-description              : &description "MSc Quantitative Finance Candidate Alliance MBS"
+description              : &description "MSc Mathematical Finance"
 url                      : https://Zirui-WangR.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zirui-wangr.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zirui Wang"
   avatar           : "IMG_0126.JPG"
-  bio              : "MSc Quantitative Finance Candidate Alliance MBS"
+  bio              : "MSc Mathematical Finance"
   location         : "Manchester, UK"
   employer         :
   pubmed           : 
