@@ -13,7 +13,7 @@ ___
 Assume that X is any set. **P(X)** is the power set of teh set X, whcih means that it is the set that contains all the subsets of X. 
 <center>
 
- _For example_
+ *For example*
 
 X = {a,b}
 
