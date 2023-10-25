@@ -21,9 +21,12 @@ P(X) = {&#8709;, X, {a}, {b}}
 
 </center>
 
-<u>**Def. 1 (Measurable Sets)**</u> $\mathcal{A}$ &sube; P(X) is a colelction of subsets. It is called a σ-algebra iff: 
+**Def. 1 (<u>Measurable Sets</u>)** $\mathcal{A}$ &sube; P(X) is a colelction of subsets. It is called a σ-algebra iff: 
+  
   1) X &isin; $\mathcal{A}$
+  
   2) A &isin; $\mathcal{A}$ &Rightarrow; A<sup>C</sup> &isin; $\mathcal{A}$
+  
   3) A<sub>1</sub>, A<sub>2</sub>, A<sub>3</sub>, ..., A<sub>n</sub> &isin; $\mathcal{A}$ &Rightarrow; U<sup>∞</sup><sub>i=1</sub> A<sub>i</sub> &isin; $\mathcal{A}$, (n &isin; &#8469;) (means there could be countable inifite number of A's)
 
 
