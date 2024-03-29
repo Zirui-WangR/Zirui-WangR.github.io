@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hi, I'm Zirui Wang!"
-excerpt: "About me"
+excerpt: "I am a current MSc student at the University of Manchester. My current research interests are: Stochastic Control, Stochastic Modelling, Optimal Stopping."
 author_profile: true
 redirect_from: 
   - /about/
