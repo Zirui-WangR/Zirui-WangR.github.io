@@ -12,8 +12,8 @@ main:
   - title: "Learning Notes"
     url: /learning notes/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Dissertation"
+    url: /files/MSc_dissertation.pdf
     
   - title: "CV"
     url: /files/ZiruiWangCV_Oct.pdf
