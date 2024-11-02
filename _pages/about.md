@@ -10,6 +10,8 @@ redirect_from:
 
 EDUCATION
 ======
+***The University of Manchester*** (2025-2028)
++ _PhD Finacial Mathematics_
 
 ***The University of Manchester*** (2023-2024)
 + _MSc Mathematical Finance_
